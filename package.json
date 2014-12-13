@@ -1,0 +1,24 @@
+{
+  "name": "yc-builtins",
+  "version": "0.0.1",
+  "description": "yc tool for list node builtin modules.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/yc-team/yc-builtins.git"
+  },
+  "keywords": [
+    "yc",
+    "builtins"
+  ],
+  "dependencies": {
+  },
+  "author": "zhangyaochun",
+  "license": "BSD-2-Clause",
+  "bugs": {
+    "url": "https://github.com/yc-team/yc-builtins/issues"
+  }
+}
